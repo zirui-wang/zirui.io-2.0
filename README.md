@@ -1,3 +1,3 @@
-# zirui.io
+# zirui.io 2.0
 
-Personal website. Forever under construction.
+Personal website 2.0. Forever under construction.
