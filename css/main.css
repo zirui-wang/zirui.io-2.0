@@ -1,0 +1,41 @@
+#icon-github {
+  background-image: url('../assets/icon/github.svg');
+}
+
+#icon-linkedin {
+  background-image: url('../assets/icon/linkedin.svg');
+}
+
+#icon-aboutme {
+  background-image: url('../assets/icon/aboutme.svg');
+  -webkit-animation: blink 2s infinite;
+  -moz-animation: blink 2s infinite;
+}
+
+#icon-instagram {
+  background-image: url('../assets/icon/instagram.svg');
+}
+
+#icon-send {
+  background-image: url('../assets/icon/send.svg');
+}
+
+#icon-github:hover {
+  background-image: url('../assets/icon/github-invert.svg');
+}
+
+#icon-linkedin:hover {
+  background-image: url('../assets/icon/linkedin-invert.svg');
+}
+
+#icon-aboutme:hover {
+  background-image: url('../assets/icon/aboutme-invert.svg');
+}
+
+#icon-instagram:hover {
+  background-image: url('../assets/icon/instagram-invert.svg');
+}
+
+#icon-send:hover {
+  background-image: url('../assets/icon/send-invert.svg');
+}
